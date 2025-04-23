@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- I'm currently learning Python, JavaScript, HTML, CSS
+- Currently working on: study timer desktop app
 <!--
 **shananiganzz/shananiganzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
